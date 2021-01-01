@@ -1,13 +1,10 @@
 # Fuzzy-Logic-based-HR-Analytics
 A Fuzzy logic model to understand why best employees, recruited in placements, are not joining an organization. 
 
-This project has successfully been able to identify the factors (out of all given
-factors) that influence an employee the “most” to leave the organization. So we keep in mind
-only those important attributes and hence our work is reduced. Next we are able to
-understand which technique is best suited for our dataset. Random Forest fits
-best for our dataset and hence carry on further with this technique only. Then using Random
-Forest, predictions were made and at almost 700 employees shall leave the
-company if current scenario continues and also the employee with, no of projects 3 and time
-spent in company 6 years, with 0 promotion, medium salary and from sales department, is having
-high probability of leaving the next. So this will provide any business organization insight upon
-who is on the risk of leaving so that company can work upon it.
+This project has successfully been able to the probability of a student joining the
+organisation, if offered a job. What factors are responsible due to which recruited employees are
+not joining . The factors which are responsible due to which some
+students who got placed are not joining an organization have been analyzed and the prediction whether a certain student
+will join the organization is made using fuzzy logic. The data set is of about 175 students from my college. The dataset is used to do inferential and predictive analysis. The main focus was to understand what are common features of students who got placed and also who are ready to join (some students don’t join). 
+
+Any company expects that the student, to whom it is offering a job opportunity, is definitely going to join. Fuzzy rule based logic helps us find the probability of a student joining the organisation, if offered a job. So, this will provide any business organization insight upon who is on the risk of no joining the organization and then company can work upon it. Next future scope will focus on our plans to build a more generalized model which can be used by any organization with minimum changes.
