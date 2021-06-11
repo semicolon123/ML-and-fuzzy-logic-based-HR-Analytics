@@ -1,0 +1,176 @@
+Timestamp,branch,btech_per,twelfth_per,tenth_perc,tech_internships,non_tech_internships,skills,tech_project,research_pprs,curr_loc,dead_backlogs,active_backlogs,placed,package,job_loc,job_profile,will_join_or_not,loc_diff
+2018/02/22 4:29:58 PM GMT+5:30,CSE,81-85,81-85,86-90,4,2,Java;C;Python;C++;R Programming;HTML;Big Data;Machine Learning,15,25,Delhi,0,0,No,,,,,
+2018/02/22 4:42:05 PM GMT+5:30,IT,76-80,91-95,91-95,2,0,C;C++;HTML;CSS;PHP;JavaScript,4,0,Delhi,0,0,Yes,7-9.9,Noida,Analyst,1,1
+2018/02/22 4:44:02 PM GMT+5:30,IT,71-75,60-70,81-85,2,0,C;C++;HTML;CSS;MySQL;PHP;Machine Learning;Artificial Intelligence,2,1,Delhi,3,0,No,,,,3,
+2018/02/22 4:44:14 PM GMT+5:30,IT,71-75,91-95,91-95,1,0,C;Python;C++;R Programming;HTML;CSS;MySQL;PHP;JavaScript;Machine Learning;Artificial Intelligence,5,0,Delhi,0,0,Yes,10-12.9,Bangalore/Noida,Member of Technical Staff,1,2
+2018/02/22 4:44:18 PM GMT+5:30,IT,81-85,91-95,91-95,2,1,C;Python;C++;HTML;CSS;MySQL;Ruby on Rails;Big Data;Machine Learning,4,0,Delhi,0,0,Yes,10-12.9,Mumbai/Pune,Graduate Engineer Trainee,1,2
+2018/02/22 4:44:26 PM GMT+5:30,IT,81-85,96-100,91-95,2,1,C;C++;HTML;CSS;MySQL;PHP;C#;JavaScript,3,1,Delhi,0,0,Yes,4-6.9,Gurugram,Technical Associate,1,1
+2018/02/22 4:45:11 PM GMT+5:30,IT,76-80,91-95,91-95,2,1,C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Machine Learning;Artificial Intelligence,5,0,Delhi,0,0,Yes,7-9.9,Pune/Hyderabad,Software Developer,0,2
+2018/02/22 4:45:18 PM GMT+5:30,IT,71-75,81-85,81-85,1,2,C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Machine Learning,6,0,Delhi,1,0,Yes,1-3.9,Chennai,Software Developer,0,2
+2018/02/22 4:45:22 PM GMT+5:30,IT,81-85,86-90,91-95,1,0,C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript,4,0,Delhi,0,0,Yes,1-3.9,Chennai,Software Developer,0,2
+2018/02/22 4:46:04 PM GMT+5:30,IT,81-85,91-95,91-95,1,0,C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Big Data;Machine Learning;Artificial Intelligence,3,0,Delhi,0,0,Yes,1-3.9,Gurugram/Bangalore,Technical Associate Application Developer,1,1
+2018/02/22 4:46:27 PM GMT+5:30,IT,71-75,76-80,81-85,1,0,C;C++;HTML;CSS;MySQL;PHP;Big Data,3,0,Delhi,1,0,Yes,1-3.9,Chennai,Software Developer,1,2
+2018/02/22 4:47:46 PM GMT+5:30,IT,60-70,86-90,86-90,1,2,Java;C;C++;HTML;CSS;MySQL,1,0,Delhi,0,0,Yes,1-3.9,Banglore,Technical Associate Application Developer,1,2
+2018/02/22 4:51:24 PM GMT+5:30,IT,76-80,91-95,96-100,1,0,Java;C;Python;C++;R Programming;HTML;CSS;MySQL;PHP;JavaScript;Machine Learning;Artificial Intelligence;Application Development,6,0,Haryana,0,0,Yes,7-9.9,Bangalore,Server Technology,1,2
+2018/02/22 5:04:36 PM GMT+5:30,IT,81-85,91-95,96-100,2,0,Java;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Machine Learning;Artificial Intelligence;Application Development,7,0,Delhi,0,0,Yes,19 and above,Hyderabad,Software Engineer,1,2
+2018/02/22 5:08:56 PM GMT+5:30,IT,71-75,91-95,91-95,1,0,Java;C;C++;HTML;CSS;MySQL;PHP;JavaScript;Application Development,6,0,Haryana,0,0,Yes,4-6.9,Gurugram,Technical Associate,1,1
+2018/02/22 5:14:29 PM GMT+5:30,IT,86-90,91-95,91-95,1,1,Java;Python;C++;R Programming;HTML;CSS;MySQL;PHP;JavaScript;Big Data;Machine Learning;Artificial Intelligence;Application Development,5,0,Delhi,0,0,Yes,7-9.9,Bangalore,Data Engineering Specialist,1,2
+2018/02/22 5:38:38 PM GMT+5:30,IT,81-85,91-95,96-100,1,2,C;Python;C++;HTML;CSS;MySQL;Machine Learning,3,0,Ghaziabad,0,0,Yes,10-12.9,Noida/Bangalore,Member of Technical Staff,1,1
+2018/02/22 5:39:40 PM GMT+5:30,IT,76-80,91-95,91-95,1,0,Java;C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Big Data;Machine Learning;Artificial Intelligence,5,0,Delhi,0,0,Yes,7-9.9,Banglore,Software Developer,1,2
+2018/02/22 5:39:51 PM GMT+5:30,IT,81-85,91-95,91-95,1,0,Java;C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Machine Learning;Artificial Intelligence;Application Development,5,0,Delhi,0,0,Yes,7-9.9,Noida,Server Technology,1,1
+2018/02/22 5:41:29 PM GMT+5:30,IT,76-80,91-95,86-90,1,4,Java;C;Python;C++;HTML;CSS;PHP;JavaScript;Artificial Intelligence,6,0,Delhi,0,0,No,0,Nil,Nil,3,
+2018/02/22 5:51:01 PM GMT+5:30,IT,76-80,91-95,91-95,1,0,C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Machine Learning;Artificial Intelligence,4,0,Delhi,0,0,No,0,Nil,Nil,3,
+2018/02/22 5:51:47 PM GMT+5:30,IT,71-75,91-95,96-100,2,0,Java;C;Python;C++;R Programming;HTML;CSS;MySQL;PHP;JavaScript;Big Data;Machine Learning;Artificial Intelligence;Application Development;IOT;Embedded Systems,3,0,Delhi,0,0,Yes,4-6.9,Gurugram,DevOps Engineer,1,1
+2018/02/22 5:51:51 PM GMT+5:30,IT,71-75,81-85,91-95,4,1,Java;Python;R Programming;HTML;CSS;MySQL;PHP;JavaScript;Ruby on Rails;Big Data;Machine Learning;Artificial Intelligence;Application Development;Robotics;Android and deep learning,6,0,Delhi,0,0,Yes,10-12.9,Gurugram,Software Developer,1,1
+2018/02/22 5:51:51 PM GMT+5:30,IT,71-75,81-85,91-95,4,1,Java;Python;R Programming;HTML;CSS;MySQL;PHP;JavaScript;Ruby on Rails;Big Data;Machine Learning;Artificial Intelligence;Application Development;Robotics;Android and deep learning,6,0,Delhi,0,0,Yes,10-12.9,Gurugram,Software Developer,1,1
+2018/02/22 5:52:11 PM GMT+5:30,IT,71-75,91-95,86-90,1,1,C;C++;HTML;CSS,2,0,Delhi,0,0,Yes,4-6.9,Gurugram,Technical Associate,1,1
+2018/02/22 5:54:28 PM GMT+5:30,CSE,91-95,91-95,96-100,3,1,Java;C;Python;C++;R Programming;HTML;CSS;MySQL;JavaScript;Big Data;Machine Learning;Artificial Intelligence;Application Development;Embedded Systems,8,0,Delhi,0,0,Yes,13-15.9,Delhi,Technical Associate Software Developer,0,1
+2018/02/22 5:55:33 PM GMT+5:30,IT,71-75,76-80,86-90,1,1,C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Big Data;Machine Learning,1,0,Delhi,1,0,Yes,4-6.9,Gurugram,DevOps Engineer,1,1
+2018/02/22 5:55:44 PM GMT+5:30,CSE,81-85,81-85,81-85,1,0,C;Python;C++;R Programming;HTML;CSS;MySQL;C#;Big Data;Machine Learning;Artificial Intelligence;IOT,5,0,Delhi,0,0,Yes,1-3.9,Bangalore,Support Engineer,0,2
+2018/02/22 5:55:44 PM GMT+5:30,CSE,81-85,96-100,96-100,2,0,Java;C;Python;C++;R Programming;HTML;CSS;MySQL;PHP;Big Data;Machine Learning;Artificial Intelligence;Application Development;IOT;Embedded Systems,4,0,Delhi,0,0,Yes,7-9.9,Delhi,Software Developer,1,1
+2018/02/22 5:57:04 PM GMT+5:30,CSE,86-90,91-95,96-100,3,0,Java;Python;C++;R Programming;HTML;CSS;MySQL;PHP;JavaScript;Ruby on Rails;Big Data;Machine Learning;Artificial Intelligence;Application Development;IOT;Embedded Systems,5,0,Delhi,0,0,Yes,10-12.9,Delhi,Member of Technical Staff,1,1
+2018/02/22 5:59:22 PM GMT+5:30,CSE,81-85,86-90,96-100,2,0,Java;C;C++;HTML;MySQL;PHP;C#;JavaScript,3,0,Bangalore,0,0,Yes,19 and above,Bangalore,Software Developer,1,1
+2018/02/22 5:59:43 PM GMT+5:30,CSE,81-85,91-95,91-95,2,0,Java;C;C++;R Programming;HTML;MySQL;Big Data;Machine Learning;IOT,5,0,Delhi,0,0,Yes,4-6.9,Pune,Technical Associate Engineer,0,2
+2018/02/22 5:59:52 PM GMT+5:30,CSE,71-75,86-90,91-95,1,0,Java;C;C++;HTML;CSS;Big Data;IOT,5,0,Delhi,0,0,Yes,1-3.9,Bangalore,Technical Associate Software Developer,0,2
+2018/02/22 5:59:55 PM GMT+5:30,CSE,81-85,96-100,91-95,2,0,Java;C;Python;C++;MySQL;Machine Learning;Application Development;IOT;J2EE,5,1,Delhi,0,0,Yes,7-9.9,Gurugram/Pune/Hyderabad/Bangalore,Software Developer,0,1
+2018/02/22 6:01:18 PM GMT+5:30,IT,60-70,71-75,76-80,1,0,Java;C;C++;HTML;MySQL,2,0,Delhi,3,0,No,0,Nil,Nil,3,
+2018/02/22 6:01:48 PM GMT+5:30,CSE,86-90,96-100,96-100,1,0,Java;C;C++;R Programming;IOT,3,0,Delhi,0,0,Yes,10-12.9,Pune,Engineer Trainee,1,2
+2018/02/22 6:07:08 PM GMT+5:30,CSE,86-90,91-95,96-100,2,0,Java;C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Machine Learning;Artificial Intelligence;Application Development,15,2,Delhi,0,0,Yes,19 and above,Hyderabad/Bangalore,Software Engineer,1,2
+2018/02/22 6:07:51 PM GMT+5:30,CSE,81-85,91-95,96-100,2,1,Python;C++;HTML;CSS;MySQL;PHP;JavaScript,3,2,Delhi,0,0,Yes,7-9.9,Bangalore,Software Developer,0,2
+2018/02/22 6:07:52 PM GMT+5:30,CSE,76-80,96-100,91-95,1,4,C;C++;HTML;CSS;MySQL,1,0,Delhi,0,0,No,0,Nil ,Nil,3,
+2018/02/22 6:09:49 PM GMT+5:30,CSE,81-85,91-95,91-95,3,0,Java;C;C++;HTML;CSS;MySQL;PHP;JavaScript;IOT,6,0,Delhi,0,0,Yes,10-12.9,Gurugram,Member of Technical Staff,1,1
+2018/02/22 6:10:24 PM GMT+5:30,CSE,81-85,91-95,96-100,2,1,Java;C;Python;C++;HTML;CSS;MySQL;JavaScript;Application Development,5,0,Bangalore,0,0,Yes,19 and above,Bangalore,Software Developer,1,1
+2018/02/22 6:12:04 PM GMT+5:30,CSE,71-75,86-90,96-100,1,0,Java;C++;R Programming;HTML;CSS;MySQL;C#;Big Data;Machine Learning;Artificial Intelligence;IOT,3,0,Delhi,1,0,Yes,1-3.9,Bangalore,Application Developer,1,2
+2018/02/22 6:13:52 PM GMT+5:30,CSE,71-75,71-75,71-75,1,0,Java;C;Python;C++;HTML;CSS;MySQL;PHP,5,0,Uttarakhand,3,0,Yes,4-6.9,Bangalore,Technical Associate System Engineer,1,2
+2018/02/22 6:14:10 PM GMT+5:30,CSE,76-80,86-90,91-95,3,0,C;HTML;CSS;MySQL;PHP;JavaScript;Application Development,4,0,Uttarakhand,0,0,Yes,4-6.9,Mumbai,Software Developer,0,2
+2018/02/22 6:17:29 PM GMT+5:30,CSE,76-80,91-95,91-95,1,0,Java;C;Python;C++;R Programming;HTML;CSS;MySQL;PHP;JavaScript;Big Data;Machine Learning;IOT;Embedded Systems,6,0,Delhi,0,0,Yes,1-3.9,Bangalore,Software Developer,0,2
+2018/02/22 6:17:46 PM GMT+5:30,CSE,76-80,81-85,71-75,4,0,Java;C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Application Development,3,0,Uttarakhand,0,0,Yes,4-6.9,Mumbai,Graduate Engineer Trainee,0,2
+2018/02/22 6:17:52 PM GMT+5:30,MAE,86-90,91-95,91-95,3,1,C;C++;Robotics,2,0,Delhi,0,0,Yes,4-6.9,Pune,Graduate Engineer Trainee,0,2
+2018/02/22 6:18:00 PM GMT+5:30,CSE,81-85,81-85,96-100,1,0,Java;C;HTML;C#,4,0,Uttarakhand,2,0,Yes,4-6.9,Mumbai,Junior Technical Associate engineer,1,2
+2018/02/22 6:19:10 PM GMT+5:30,MAE,76-80,71-75,76-80,3,0,C,3,0,Delhi,4,0,Yes,4-6.9,Gurugram,Graduate Engineer Trainee,1,1
+2018/02/22 6:19:25 PM GMT+5:30,MAE,86-90,91-95,96-100,2,1,Machine Learning,2,0,Delhi,0,0,Yes,4-6.9,Noida,Research and Development,1,1
+2018/02/22 6:20:31 PM GMT+5:30,CSE,81-85,86-90,86-90,1,0,Java;C;C++;HTML;CSS;PHP;CCNA,4,0,Uttarakhand,0,0,Yes,4-6.9,Noida,Software Developer,1,2
+2018/02/22 6:25:18 PM GMT+5:30,MAE,81-85,91-95,91-95,1,0,Solidworks,1,0,Delhi,0,0,No,0,Nil,Nil,3,
+2018/02/22 6:25:34 PM GMT+5:30,MAE,81-85,91-95,91-95,2,0,C;C++;MySQL;Machine Learning,3,1,Delhi,0,0,Yes,4-6.9,Pune,Assistant Engineer,0,2
+2018/02/22 6:28:06 PM GMT+5:30,MAE,76-80,86-90,86-90,2,0,Solidworks,2,0,Delhi,0,0,Yes,4-6.9,Pune,Technical Associate,1,2
+2018/02/22 6:28:21 PM GMT+5:30,MAE,71-75,81-85,81-85,1,1,C++,0,0,Delhi,5,0,No,0,Nil,Nil,3,
+2018/02/22 6:29:14 PM GMT+5:30,CSE,81-85,91-95,91-95,2,2,"C;C++;R Programming;HTML;CSS;MySQL;JavaScript;NoSQL, NodeJS",3,0,Delhi,0,0,Yes,7-9.9,Bangalore,Server Technology,1,2
+2018/02/22 6:32:10 PM GMT+5:30,CSE,81-85,96-100,91-95,2,0,Java;C;Python;C++;HTML;CSS;MySQL,5,0,Delhi,0,0,Yes,7-9.9,Noida,Software Developer,1,1
+2018/02/22 6:38:41 PM GMT+5:30,CSE,76-80,91-95,96-100,1,1,C;Python;C++;MySQL;Big Data,2,0,Delhi,0,0,Yes,7-9.9,Bangalore,Software Developer,1,2
+2018/02/22 6:38:47 PM GMT+5:30,MAE,76-80,91-95,96-100,2,3,HTML;Robotics,2,0,Delhi,0,0,Yes,4-6.9,Banglore,Technical Associate,1,2
+2018/02/22 6:38:48 PM GMT+5:30,IT,71-75,91-95,86-90,2,3,Java;Python;C++;MySQL;Machine Learning;Artificial Intelligence,3,1,Delhi,1,0,No,0,Nil,Nil,3,
+2018/02/22 6:42:16 PM GMT+5:30,IT,81-85,86-90,91-95,2,0,Java;C++;R Programming;HTML;CSS;MySQL;PHP;Big Data;Artificial Intelligence,3,3,Delhi,0,0,Yes,4-6.9,Noida,Business Development Technical Associate,0,1
+2018/02/22 6:43:14 PM GMT+5:30,CSE,60-70,81-85,76-80,0,0,C;Python;C++;Big Data;Machine Learning;Artificial Intelligence;IOT,3,1,Delhi,7,0,No,0,Nil,Nil,3,
+2018/02/22 6:50:48 PM GMT+5:30,MAE,76-80,86-90,86-90,2,0,"C;C++;AutoCad, Ansys",1,1,Delhi,0,0,Yes,7-9.9,Banglore,Supply Chain,1,2
+2018/02/22 6:51:53 PM GMT+5:30,IT,76-80,91-95,91-95,1,1,Java;C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Big Data,3,0,Delhi,0,0,Yes,7-9.9,Gurugram,Quality Analyst,1,1
+2018/02/22 6:52:02 PM GMT+5:30,IT,76-80,91-95,91-95,2,2,Java;C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Machine Learning,4,0,Delhi,0,0,Yes,10-12.9,Pune,Business Analyst,1,2
+2018/02/22 6:53:19 PM GMT+5:30,CSE,81-85,91-95,91-95,1,0,Java;C;C++;HTML;CSS;MySQL;PHP;JavaScript;Application Development,4,0,Delhi,0,0,Yes,7-9.9,Noida,Member Technical Staff,1,1
+2018/02/22 6:53:51 PM GMT+5:30,CSE,86-90,91-95,91-95,1,0,Java;C;Python;C++;R Programming;HTML;CSS;Machine Learning;Artificial Intelligence;Application Development;Data science and Natural language processing,8,7,Delhi,0,0,Yes,1-3.9,Bangalore,Software Engineer,0,2
+2018/02/22 7:04:44 PM GMT+5:30,MAE,81-85,86-90,86-90,2,0,"C;MATLAB, AUTOCAD, CREO, PROTEUS",2,1,Delhi,0,0,Yes,7-9.9,Banglore,Supply Chain,1,2
+2018/02/22 7:06:57 PM GMT+5:30,CSE,81-85,91-95,86-90,2,0,Java;C;C++;MySQL,3,0,Delhi,0,0,Yes,7-9.9,Gurugram,Software Engineer,1,1
+2018/02/22 7:08:16 PM GMT+5:30,CSE,71-75,71-75,76-80,1,0,Java;C;HTML;PHP;Machine Learning,4,1,Uttarakhand,5,0,No,0,Nil,Nil,3,
+2018/02/22 7:09:50 PM GMT+5:30,CSE,76-80,81-85,91-95,1,0,Java;R Programming;Machine Learning;Application Development;IOT,8,2,Delhi,0,0,Yes,1-3.9,Delhi,Software Engineer,0,1
+2018/02/22 7:21:06 PM GMT+5:30,CSE,86-90,96-100,96-100,2,2,C;Python;C++;R Programming;HTML;CSS;MySQL;Application Development;IOT;Embedded Systems,7,2,Delhi,9,0,Yes,7-9.9,Noida or Bangalore,Member of Technical Staff,0,1
+2018/02/22 7:23:24 PM GMT+5:30,CSE,86-90,96-100,96-100,1,0,Java;C;Python;C++;HTML;MySQL;Machine Learning;IOT,5,0,Delhi,0,0,Yes,7-9.9,Bangalore,Not known,1,2
+2018/02/22 7:24:31 PM GMT+5:30,CSE,81-85,96-100,91-95,1,1,C;Python;C++;HTML;CSS;MySQL;PHP;Big Data;Machine Learning,10,1,Delhi,0,0,Yes,10-12.9,Delhi,Software Developer,1,1
+2018/02/22 7:28:03 PM GMT+5:30,CSE,81-85,76-80,76-80,1,0,Java;Python;C++;HTML;Machine Learning,3,1,Uttarakhand,1,0,No,0,Nil,Nil,3,
+2018/02/22 7:28:25 PM GMT+5:30,IT,76-80,91-95,81-85,1,0,Java;C;Python;C++;R Programming;HTML;CSS;MySQL;PHP;JavaScript;Big Data;Machine Learning;Artificial Intelligence;Application Development,5,0,Delhi,0,0,Yes,19 and above,Hyderabad/Banglore,Software Engineer,1,2
+2018/02/22 7:29:17 PM GMT+5:30,MAE,81-85,86-90,91-95,3,0,C;Robotics,3,0,Delhi,0,0,Yes,4-6.9,Gurugram,Graduate Enginner Trainee,1,1
+2018/02/22 7:31:47 PM GMT+5:30,MAE,71-75,76-80,81-85,2,0,C,1,0,Delhi,3,1,No,0,Nil,Nil,3,
+2018/02/22 7:38:31 PM GMT+5:30,IT,60-70,86-90,86-90,3,0,Java;C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Machine Learning;Artificial Intelligence,6,0,Delhi,5,0,No,0,Nil,Nil,3,
+2018/02/22 7:40:34 PM GMT+5:30,CSE,81-85,91-95,96-100,1,0,Java;Python;C++;HTML;CSS;MySQL;PHP;Application Development;IOT,4,0,Delhi,0,0,Yes,19 and above,Hyderabad,Software Engineer,1,2
+2018/02/22 7:42:35 PM GMT+5:30,CSE,71-75,86-90,91-95,1,0,Java;C;Python;Big Data;Artificial Intelligence;IOT,3,0,Delhi,0,0,Yes,1-3.9,Gurugram/ Mumbai/ Pune ,Software Developer,0,1
+2018/02/22 7:44:22 PM GMT+5:30,MAE,76-80,86-90,96-100,2,0,Robotics,2,0,Delhi,0,0,Yes,4-6.9,Hyderabad,Software Developer,0,2
+2018/02/22 7:49:07 PM GMT+5:30,CSE,81-85,91-95,96-100,4,3,Java;C;Python;C++;R Programming;HTML;CSS;MySQL;PHP;Big Data;Machine Learning;Artificial Intelligence,6,5,Delhi,0,0,Yes,10-12.9,Bangalore,Software Developer,1,2
+2018/02/22 7:51:12 PM GMT+5:30,MAE,76-80,76-80,76-80,3,0,Machine Learning,2,0,Delhi,0,0,Yes,4-6.9,Gurugram,Graduate Engineer Trainee,1,1
+2018/02/22 7:58:41 PM GMT+5:30,IT,76-80,91-95,91-95,1,0,C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Machine Learning;Artificial Intelligence,3,0,Ghaziabad,0,0,Yes,4-6.9,Gurugram,Software Developer,1,1
+2018/02/22 7:59:05 PM GMT+5:30,MAE,81-85,81-85,91-95,2,0,C++,1,0,Delhi,1,0,Yes,4-6.9,Delhi,Consultancy,1,1
+2018/02/22 8:04:16 PM GMT+5:30,CSE,76-80,91-95,91-95,1,0,Java;C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Machine Learning;Application Development,3,0,Delhi,0,0,Yes,7-9.9,Bangalore,Business Analyst,1,2
+2018/02/22 8:14:29 PM GMT+5:30,CSE,81-85,96-100,91-95,2,2,Java;C;Python;C++;PHP;Application Development,2,0,Delhi,0,0,Yes,7-9.9,Bangalore,Business Analyst,1,2
+2018/02/22 8:17:49 PM GMT+5:30,CSE,76-80,76-80,76-80,2,0,Java;Python;HTML;CSS;JavaScript,3,0,Uttarakhand,0,0,Yes,4-6.9,Noida,Software Developer,1,2
+2018/02/22 8:25:27 PM GMT+5:30,IT,81-85,91-95,91-95,1,0,C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript,3,0,Delhi,0,0,Yes,7-9.9,Hyderabad,Software Developer,0,2
+2018/02/22 8:25:42 PM GMT+5:30,CSE,86-90,96-100,91-95,3,0,Java;C;Python;C++;HTML;MySQL;Application Development,5,0,Delhi,0,0,Yes,10-12.9,Bangalore,Software Developer,1,2
+2018/02/22 8:37:19 PM GMT+5:30,CSE,76-80,86-90,96-100,2,0,Java;C;Python;C++;R Programming;HTML;CSS;MySQL;IOT,4,0,Delhi,0,0,Yes,4-6.9,Pune,Software Developer,0,2
+2018/02/22 8:47:22 PM GMT+5:30,CSE,60-70,71-75,71-75,1,0,Java;C;C++;R Programming,2,10,Delhi,1,0,No,0,Nil ,Nil,3,
+2018/02/22 8:54:00 PM GMT+5:30,IT,81-85,91-95,91-95,3,0,Java;C;Python;C++;HTML;CSS;MySQL;PHP;C#;JavaScript;Big Data,4,1,Delhi,0,0,Yes,19 and above,Hyderabad/Bangalore,Software Developer,1,2
+2018/02/22 9:02:09 PM GMT+5:30,ECE,76-80,86-90,96-100,3,1,Python;HTML;CSS;Artificial Intelligence;IOT;DSP;VLSI,2,0,Delhi,0,0,No,0,Nil,Nil,3,
+2018/02/22 9:02:15 PM GMT+5:30,ECE,86-90,91-95,91-95,3,0,C++;DSP;VLSI;Embedded Systems,6,2,Delhi,0,0,Yes,4-6.9,Pune,"Technical Associate Engineer,Research and Development ",0,2
+2018/02/22 9:02:53 PM GMT+5:30,ECE,81-85,96-100,96-100,1,1,C;C++;IOT;Robotics;Embedded Systems,4,1,Delhi,0,0,Yes,4-6.9,Bangalore,Software Developer,0,2
+2018/02/22 9:03:27 PM GMT+5:30,ECE,71-75,60-70,76-80,2,0,DSP;VLSI,2,0,Delhi,1,0,No,0,Nil,Nil,3,
+2018/02/22 9:03:37 PM GMT+5:30,ECE,76-80,86-90,91-95,3,0,Java;Python;C++;Big Data;Machine Learning,3,0,Delhi,0,0,Yes,4-6.9,Bangalore,Graduate Engineer Trainee,1,2
+2018/02/22 9:05:46 PM GMT+5:30,ECE,71-75,91-95,96-100,2,0,C;Python;C++;HTML;CSS;Robotics;DSP;VLSI;Embedded Systems,4,0,Delhi,1,0,Yes,4-6.9,Mumbai,Graduate Engineer Trainee,1,2
+2018/02/22 9:05:50 PM GMT+5:30,IT,71-75,86-90,91-95,1,0,C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Big Data,4,0,Delhi,0,0,Yes,7-9.9,Noida,Software Developer,1,1
+2018/02/22 9:06:02 PM GMT+5:30,ECE,71-75,91-95,91-95,3,0,C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Robotics;DSP,5,1,Delhi,3,0,No,0,Nil,Nil,3,
+2018/02/22 9:06:04 PM GMT+5:30,ECE,71-75,76-80,91-95,2,0,IOT;DSP;VLSI,3,0,Delhi,9,0,Yes,4-6.9,Noida,Non tech,1,1
+2018/02/22 9:06:20 PM GMT+5:30,ECE,76-80,91-95,96-100,2,2,C;C++;HTML;Machine Learning,1,0,Delhi,0,0,Yes,4-6.9,Bangalore,Technical Associate,1,2
+2018/02/22 9:06:33 PM GMT+5:30,ECE,81-85,91-95,86-90,3,0,IOT;Robotics;Embedded Systems,4,0,Delhi,0,0,Yes,4-6.9,Bangalore,Consultant Engineer,0,2
+2018/02/22 9:08:05 PM GMT+5:30,ECE,81-85,96-100,96-100,1,1,C++;Machine Learning;IOT;Robotics;Embedded Systems,3,1,Delhi,0,0,Yes,4-6.9,Mumbai,Graduate Engineer Trainee,0,2
+2018/02/22 9:08:09 PM GMT+5:30,ECE,76-80,86-90,86-90,2,0,Java;C;C++;MySQL;Robotics,1,0,Delhi,0,0,No,0,Nil,Nil,3,
+2018/02/22 9:09:02 PM GMT+5:30,ECE,76-80,91-95,96-100,2,0,Java;C;C++;HTML;CSS;MySQL;JavaScript;Robotics;Embedded Systems,4,0,Delhi,1,0,No,0,Nil,Nil,3,
+2018/02/22 9:10:01 PM GMT+5:30,ECE,81-85,91-95,91-95,1,0,Java;C;C++;Robotics;DSP;Embedded Systems,5,0,Delhi,0,0,Yes,4-6.9,Bangaluru,Graduate Engineer Trainee,0,2
+2018/02/22 9:10:19 PM GMT+5:30,ECE,81-85,91-95,96-100,0,0,C;C++;Embedded Systems,5,0,Delhi,0,0,Yes,4-6.9,Gurugram,Software Engineer,1,1
+2018/02/22 9:10:30 PM GMT+5:30,ECE,60-70,71-75,86-90,2,0,C;C++,2,0,Uttar Pradesh,10,1,No,0,Nil,Nil,3,
+2018/02/22 9:11:03 PM GMT+5:30,ECE,81-85,86-90,96-100,2,0,C;C++;DSP,3,0,Delhi,0,0,Yes,4-6.9,Mumbai,Graduate Trainee Engineer,1,2
+2018/02/22 9:13:00 PM GMT+5:30,ECE,76-80,91-95,96-100,2,1,Java;C;Python;HTML;CSS;JavaScript;Machine Learning;IOT;DSP;Embedded Systems,4,0,Delhi,0,0,Yes,10-12.9,Pune,Server Technology,1,2
+2018/02/22 9:13:25 PM GMT+5:30,ECE,71-75,76-80,96-100,2,0,Java;C;C++;HTML;CSS;MySQL;Application Development;Robotics;DSP;VLSI;Embedded Systems,3,0,Delhi,0,0,Yes,4-6.9,Mumbai,Technical Associate Engineer,1,2
+2018/02/22 9:17:19 PM GMT+5:30,ECE,71-75,76-80,81-85,1,1,C++;DSP;VLSI;Embedded Systems,3,0,Delhi,3,0,Yes,4-6.9,Pune,Graduate Engineer Trainee,1,2
+2018/02/22 9:18:42 PM GMT+5:30,ECE,71-75,81-85,91-95,2,0,C++,3,0,Delhi,1,0,Yes,1-3.9,Bangalore,Technical Associate Application Developer,0,2
+2018/02/22 9:22:34 PM GMT+5:30,ECE,76-80,91-95,96-100,2,1,C;Python;C++;HTML;CSS;PHP;JavaScript;Big Data,3,0,Delhi,0,0,Yes,4-6.9,Gurugram,Decision Analytics Technical Associate,1,1
+2018/02/22 9:22:58 PM GMT+5:30,ECE,76-80,86-90,91-95,3,1,C;Python;C++;JavaScript;Machine Learning;Artificial Intelligence;IOT;Robotics;DSP;Embedded Systems,14,0,Delhi,0,0,Yes,10-12.9,Bangalore,Technical Associate Developer,1,2
+2018/02/22 9:23:09 PM GMT+5:30,ECE,76-80,91-95,96-100,2,1,HTML;DSP;Embedded Systems,4,0,Delhi,0,0,Yes,10-12.9,Pune,Graduate Engineer Trainee,1,2
+2018/02/22 9:23:17 PM GMT+5:30,ECE,71-75,76-80,76-80,2,0,C,2,0,Delhi,1,0,No,0,Nil,Nil,3,
+2018/02/22 9:23:46 PM GMT+5:30,ECE,76-80,86-90,81-85,1,0,C++,3,0,Delhi,0,1,No,0,Nil,Nil,3,
+2018/02/22 9:25:50 PM GMT+5:30,ECE,81-85,91-95,91-95,1,0,C;C++;HTML;CSS;DSP;Embedded Systems,3,0,Uttar Pradesh,0,0,Yes,4-6.9,Bangalore,Technical Associate,0,2
+2018/02/22 9:26:32 PM GMT+5:30,ECE,76-80,86-90,91-95,2,1,C++;Embedded Systems,2,0,Delhi,0,0,No,0,Nil,Nil,3,
+2018/02/22 9:27:00 PM GMT+5:30,ECE,86-90,96-100,91-95,2,0,C;C++;IOT;Robotics;DSP;VLSI;Embedded Systems,4,0,Delhi,0,0,Yes,4-6.9,Delhi,Graduate Engineer Trainee,1,1
+2018/02/22 9:28:32 PM GMT+5:30,CSE,71-75,86-90,91-95,0,0,Java;C;C++,5,0,Delhi,3,0,No,0,Nil,Nil,3,
+2018/02/22 9:31:36 PM GMT+5:30,ECE,76-80,91-95,91-95,1,0,Java;C;C++,1,0,Delhi,0,0,No,0,Nil,Nil,3,
+2018/02/22 9:46:33 PM GMT+5:30,ECE,81-85,91-95,86-90,1,0,Java;C;C++;IOT;Robotics;DSP;VLSI;Embedded Systems,2,0,Delhi,0,0,Yes,4-6.9,Delhi,Instructor and Product Engineer,1,1
+2018/02/22 9:51:51 PM GMT+5:30,CSE,81-85,91-95,96-100,2,1,C;C++;R Programming;MySQL;Big Data;Machine Learning;Artificial Intelligence;IOT,2,0,Haryana,0,0,Yes,1-3.9,Hyderabad,Software Developer,0,2
+2018/02/22 9:54:28 PM GMT+5:30,ECE,71-75,76-80,86-90,2,0,C;Python;VLSI,1,0,Delhi,1,0,No,0,Nil,Nil,3,
+2018/02/22 9:55:20 PM GMT+5:30,CSE,60-70,60-70,86-90,1,1,Java;C;Python;C++;HTML;CSS;MySQL;PHP;Machine Learning;Artificial Intelligence,4,1,Delhi,6,0,Yes,1-3.9,Delhi,Hr Business Development Consultant,0,1
+2018/02/22 9:57:46 PM GMT+5:30,ECE,81-85,91-95,96-100,2,0,C;C++,3,0,Delhi,0,0,No,0,Nil,Nil,3,
+2018/02/22 10:03:11 PM GMT+5:30,CSE,71-75,96-100,86-90,1,0,Java;Python;C++;HTML;Machine Learning,1,0,Delhi,0,0,No,0,Nil,Nil,3,
+2018/02/22 10:09:27 PM GMT+5:30,ECE,76-80,86-90,96-100,3,0,Java;C;Python;C++;HTML;IOT;Robotics;DSP;VLSI;Embedded Systems,5,0,Delhi,0,0,Yes,1-3.9,Delhi,Software Engineer,0,1
+2018/02/22 10:10:06 PM GMT+5:30,CSE,86-90,91-95,91-95,2,0,C;Python;C++;R Programming;Big Data;Machine Learning,8,0,Delhi,0,0,Yes,7-9.9,Pune,Member of Technical Staff,0,2
+2018/02/22 10:53:12 PM GMT+5:30,ECE,76-80,86-90,91-95,2,2,C;C++,2,0,Delhi,6,0,Yes,10-12.9,Pune,Mobility Communications,1,2
+2018/02/22 10:53:31 PM GMT+5:30,ECE,76-80,91-95,91-95,1,1,C++;IOT;Robotics;Embedded Systems,3,0,Delhi,0,0,Yes,4-6.9,Banglore,Graduate Trainee Engineer,1,2
+2018/02/22 10:55:22 PM GMT+5:30,ECE,81-85,91-95,91-95,3,1,Java;C;C++;MySQL;JavaScript;Application Development;Robotics;Embedded Systems,4,0,Delhi,0,0,Yes,10-12.9,Bangalore,Software Developer,1,2
+2018/02/22 10:58:58 PM GMT+5:30,CSE,76-80,91-95,91-95,1,0,Java;C;Python;C++;HTML;CSS;MySQL;JavaScript;IOT,4,1,UP,0,0,Yes,7-9.9,Bangalore,Software Developer,1,2
+2018/02/22 11:03:42 PM GMT+5:30,CSE,86-90,91-95,91-95,2,0,Java;C;Python;C++;HTML;CSS;MySQL;Android,6,0,Dehradun,0,0,Yes,4-6.9,Mumbai,Software Developer,0,2
+2018/02/22 11:11:21 PM GMT+5:30,ECE,81-85,91-95,96-100,2,0,Java;C;Python;C++;IOT;Robotics;Embedded Systems,6,0,Delhi,0,0,Yes,4-6.9,Pune,Embedded Software Engg.,0,2
+2018/02/22 11:11:53 PM GMT+5:30,IT,71-75,81-85,91-95,1,0,C;Python;C++;HTML;CSS;MySQL;PHP;Big Data;Artificial Intelligence;Robotics,2,1,Delhi,2,2,No,0,Nil,Nil,3,
+2018/02/22 11:33:42 PM GMT+5:30,ECE,76-80,86-90,91-95,1,4,C;C++;HTML;CSS;IOT;Robotics;DSP;VLSI,2,0,Delhi,0,0,Yes,1-3.9,Bangalore,Assistant Systems Engineer,0,2
+2018/02/22 11:58:50 PM GMT+5:30,ECE,81-85,91-95,91-95,2,0,C;C++;IOT;Robotics;DSP;Embedded Systems,3,1,Delhi,0,0,Yes,4-6.9,Chennai,Software Developer,0,2
+2018/02/23 12:00:54 AM GMT+5:30,IT,81-85,86-90,81-85,1,0,C;Python;C++;HTML;CSS;MySQL;PHP;Big Data;Machine Learning;Artificial Intelligence;Application Development,5,0,Delhi,0,0,Yes,10-12.9,Pune,Graduate Trainee Engineer,1,2
+2018/02/23 12:07:40 AM GMT+5:30,CSE,76-80,91-95,96-100,1,0,C;Python;C++;HTML;CSS;IOT,4,0,Haryana,0,0,No,0,Nil,Nil,3,
+2018/02/23 12:09:22 AM GMT+5:30,IT,76-80,91-95,96-100,1,1,C;C++;HTML;CSS,1,0,Delhi,0,0,Yes,7-9.9,Bangalore,Research and Development,1,2
+2018/02/23 12:19:19 AM GMT+5:30,ECE,81-85,91-95,86-90,1,0,Java;C;Python;C++;MySQL;IOT;Robotics;DSP;VLSI;Embedded Systems,5,0,Delhi,0,0,Yes,4-6.9,Pune,Software Engineer,0,2
+2018/02/23 12:33:04 AM GMT+5:30,MAE,76-80,81-85,86-90,1,0,"Ansys,solidworks",1,0,Delhi,2,0,No,0,Nil,Nil,3,
+2018/02/23 1:00:12 AM GMT+5:30,ECE,81-85,91-95,91-95,2,0,C;C++;IOT;Robotics;DSP;VLSI;Embedded Systems,4,0,Delhi,0,0,Yes,4-6.9,Delhi,Technical Associate ,1,1
+2018/02/23 1:14:43 AM GMT+5:30,IT,81-85,96-100,96-100,3,0,C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript,5,0,Delhi,0,0,Yes,7-9.9,Noida,Software Engineer,1,1
+2018/02/23 3:47:52 AM GMT+5:30,ECE,81-85,91-95,96-100,1,1,C;C++;Artificial Intelligence;IOT;Robotics;Embedded Systems,4,2,Delhi,0,0,No,0,Nil,Nil,3,
+2018/02/23 5:15:39 AM GMT+5:30,IT,76-80,91-95,91-95,1,0,C;Python;C++;HTML;CSS;PHP;JavaScript;Big Data;Machine Learning;Artificial Intelligence,5,2,Delhi,0,0,Yes,7-9.9,Pune,Software Engineer,0,2
+2018/02/23 6:19:24 AM GMT+5:30,IT,81-85,91-95,91-95,3,0,C;Python;C++;HTML;CSS;MySQL;Big Data;Machine Learning;Artificial Intelligence;IOT,4,0,Delhi,0,0,Yes,10-12.9,Delhi,Software Developer ,1,1
+2018/02/23 9:13:31 AM GMT+5:30,CSE,86-90,91-95,91-95,2,0,Java;C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Big Data;Machine Learning;Artificial Intelligence;IOT,4,0,Delhi,0,0,Yes,19 and above,Bangalore,Software Developer,1,2
+2018/02/23 11:10:40 AM GMT+5:30,IT,71-75,86-90,86-90,3,0,Java;C;C++;HTML;CSS;MySQL;JavaScript,4,0,Delhi,0,0,No,0,Nil,Nil,3,
+2018/02/23 12:36:32 PM GMT+5:30,CSE,76-80,96-100,96-100,1,0,C;Python;C++;R Programming;HTML;CSS;MySQL;Big Data;IOT,5,1,Delhi,0,0,No,0,Nil,Nil,3,
+2018/02/23 1:35:47 PM GMT+5:30,CSE,76-80,91-95,96-100,2,0,Java;C;Python;C++;HTML;CSS;MySQL;Embedded Systems,5,0,Delhi,0,0,Yes,19 and above,Bangalore,Software Developer,1,2
+2018/02/23 2:02:57 PM GMT+5:30,IT,81-85,91-95,96-100,2,2,C;Python;C++;R Programming;HTML;CSS;MySQL;PHP;JavaScript;Machine Learning,6,0,Delhi,0,0,Yes,10-12.9,Noida,Software Developer,1,1
+2018/02/23 4:45:16 PM GMT+5:30,CSE,81-85,91-95,91-95,1,0,Java;C;C++;R Programming;Big Data;Machine Learning;Artificial Intelligence,3,0,Delhi,0,0,No,0,Nil,Nil,3,
+2018/02/23 4:50:43 PM GMT+5:30,CSE,76-80,91-95,91-95,1,0,C;Python;C++;HTML;CSS;MySQL;JavaScript,2,0,Delhi,0,0,Yes,4-6.9,Gurugram,Software Developer,1,1
+2018/02/23 6:32:41 PM GMT+5:30,MAE,76-80,86-90,91-95,3,0,C;C++;MySQL,2,0,Delhi,0,0,Yes,4-6.9,Pune,Not known yet,1,2
+2018/02/23 6:45:05 PM GMT+5:30,CSE,76-80,91-95,91-95,1,0,C;Python;C++;HTML;CSS;MySQL;IOT,3,0,Delhi,0,0,No,0,Nil,Nil,3,
+2018/02/23 7:24:48 PM GMT+5:30,MAE,81-85,86-90,81-85,2,1,C;C++,1,0,Delhi,1,0,Yes,4-6.9,Pune,Graduate Engineer Trainee,1,2
+2018/02/23 8:19:53 PM GMT+5:30,ECE,76-80,91-95,96-100,2,4,C++;HTML,2,0,Delhi,0,0,No,0,Nil ,Nil,3,
+2018/02/23 8:59:49 PM GMT+5:30,IT,60-70,81-85,91-95,1,0,Java;C;C++;HTML;CSS;MySQL;PHP;JavaScript;Artificial Intelligence,2,1,Delhi,6,1,No,0,Nil,Nil,3,
+2018/02/23 9:22:03 PM GMT+5:30,IT,60-70,60-70,81-85,2,0,C;C++;HTML;CSS;MySQL;PHP;Big Data,1,0,Delhi,4,1,No,0,Nil,Nil,3,
+2018/02/24 12:49:25 PM GMT+5:30,MAE,71-75,76-80,71-75,2,0,Solidworks,2,0,Delhi,8,0,No,0,Nil,Nil,3,
+2018/02/24 11:07:14 PM GMT+5:30,IT,60-70,60-70,81-85,1,0,C;C++;HTML;CSS,2,0,Delhi,14,1,No,0,Nil,Nil,3,
+2018/02/25 1:34:30 PM GMT+5:30,IT,71-75,81-85,86-90,0,1,Java;C;C++;HTML,4,0,Delhi,0,1,No,0,Nil,Nil,3,
+2018/02/25 6:05:03 PM GMT+5:30,IT,81-85,91-95,91-95,1,2,Java;Python;C++;HTML;CSS;MySQL;PHP;JavaScript,1,0,Delhi,0,0,Yes,10-12.9,Gurugram,Software Developer,1,1
+2018/02/25 6:36:46 PM GMT+5:30,CSE,86-90,96-100,96-100,4,1,Java;C;Python;C++;R Programming;HTML;CSS;MySQL;Big Data;Machine Learning;Artificial Intelligence;Application Development;IOT,12,0,Delhi,0,0,Yes,13-15.9,Bangalore,Software Developer,1,2
+2018/02/26 5:20:19 PM GMT+5:30,ECE,71-75,71-75,76-80,1,1,Java;C++;MySQL,5,0,Delhi,5,2,No,0,Nil,Nil,3,
+2018/02/26 11:27:10 PM GMT+5:30,ECE,81-85,91-95,96-100,1,0,Java;Python;C++;HTML;IOT;Robotics;Embedded Systems,20,0,Haryana,0,0,Yes,7-9.9,Bangalore,Core Engineer,1,2
+2018/02/27 1:25:19 AM GMT+5:30,CSE,76-80,91-95,96-100,3,0,Java;C;Python;C++;HTML;CSS;MySQL;PHP;JavaScript;Ruby on Rails;Machine Learning;Application Development,2,0,Telangana,0,0,Yes,19 and above,Hyderabad,Software Developer,1,1
+2018/02/27 9:00:45 PM GMT+5:30,MAE,71-75,81-85,81-85,2,0,Pro E software,1,0,Delhi,0,0,Yes,4-6.9,Bangalore,Graduate Engineer Trainee,1,2
