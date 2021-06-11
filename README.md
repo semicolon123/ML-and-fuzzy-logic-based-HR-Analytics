@@ -1,4 +1,4 @@
-# ML-based-HR-Analytics
+# HR Analytics
 
 A predictive model to identify the factors that influence an employee to leave an organization. 
 
